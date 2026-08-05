@@ -1,0 +1,7 @@
+# Ignore OS system files
+.DS_Store
+Thumbs.db
+
+# Ignore helper scripts if they shouldn't be published
+*.ps1
+*.bat
