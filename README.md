@@ -1,5 +1,5 @@
 # KepoBelanja 🏊‍♂️🛍️
-> A premium, interactive Next.js e-commerce showcase for poolside essentials, loyalty VIP systems, and in-app gamification.
+> A modern, interactive e-commerce showcase for poolside essentials, loyalty VIP systems, and in-app gamification.
 
 [![React](https://img.shields.io/badge/React-19.0-61DAFB?logo=react&logoColor=white&style=flat-square)](#)
 [![Next.js](https://img.shields.io/badge/Next.js-16.0--AppRouter-000000?logo=nextdotjs&logoColor=white&style=flat-square)](#)
@@ -10,9 +10,7 @@
 ---
 
 ## 📌 Project Overview
-**KepoBelanja** ("Curious Shopping" in Indonesian) is a premium, client-commissioned web application representing an e-commerce platform specializing in poolside products, swimming pool gears, and floats.
-
-Designed with rich aesthetics, glassmorphism UI/UX elements, micro-animations, and custom typography, the application demonstrates how modern React features can be orchestrated to deliver an engaging checkout flow alongside loyalty gamification.
+**KepoBelanja** ("Curious Shopping" in Indonesian) is a modern, client-commissioned web application representing an e-commerce platform specializing in poolside products, swimming pool gears, and floats.
 
 > [!NOTE]  
 > **Showcase Repository Statement:**  
@@ -105,11 +103,11 @@ graph TD
 - **Framework**: `Next.js 16.2 (App Router)`
 - **UI Runtime**: `React 19`
 - **State Store**: `Zustand 5`
-- **Styling**: `CSS Modules` + `Tailwind CSS 4.0` (for custom layouts)
+- **Styling**: `CSS Modules` + `Tailwind CSS 4.0` 
 - **Animations**: `Framer Motion 12`
 - **Iconography**: `Lucide React`
 - **Language**: `TypeScript 5`
-- **Compiler**: `Babel React Compiler` (for performance optimization)
+- **Compiler**: `Babel React Compiler` 
 
 ---
 
