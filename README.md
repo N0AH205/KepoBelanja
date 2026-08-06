@@ -18,20 +18,6 @@
 
 ---
 
-## 🖼️ UI/UX Previews
-
-| Catalog & Search (Home) | VIP Member Center |
-|:---:|:---:|
-| ![Catalog Preview](./assets/home_preview.png) | ![Membership Preview](./assets/member_preview.png) |
-| *Clean Sidebar Navigation & Dynamic Product Search* | *Interactive VIP Loyalty Subscription Portal* |
-
-| VIP Minigame "Catch the Float!" | QRIS Simulated Checkout |
-|:---:|:---:|
-| ![Minigame Preview](./assets/gameplay_preview.png) | ![Checkout Preview](./assets/checkout_preview.png) |
-| *Speed-Clicking Gamification to Earn Shopping Points* | *Integrated Cart, Carrier Selector, & QRIS Simulated Flow* |
-
----
-
 ## ⚙️ Architecture & Data Flow
 
 KepoBelanja leverages a modern, single-page application architecture using Next.js App Router for routes, Tailwind CSS v4 and CSS Modules for styling, and a central Zustand store for reactive state synchronization.
