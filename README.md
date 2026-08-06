@@ -65,7 +65,7 @@ graph TD
    - Categorized sidebar navigation filtering items (e.g. *All*, *Balls*, *Boats*, *Floats*, *Dive Toys*).
 
 2. **VIP loyalty Program Integration**
-   - Mock membership subscription portal (lifetime membership cost simulation).
+   - Membership subscription portal (lifetime membership cost).
    - Dynamically checks state across pages to lock/unlock exclusive VIP sections.
 
 3. **VIP Exclusive Perks**
