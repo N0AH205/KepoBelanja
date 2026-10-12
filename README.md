@@ -10,7 +10,7 @@
 ---
 
 ## 📌 Project Overview
-**KepoBelanja** ("Curious Shopping" in Indonesian) is a modern, client-commissioned web application representing an e-commerce platform specializing in poolside products, swimming pool gears, and floats.
+**KepoBelanja** is a client-commissioned web application representing an e-commerce platform specializing in poolside products, swimming pool gears, and floats.
 
 > [!NOTE]  
 > **Showcase Repository Statement:**  
